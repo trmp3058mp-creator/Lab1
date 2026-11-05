@@ -4,7 +4,7 @@
 - **Варіант:** №4 — Домашній кабінет (акцентний колір `#4A4A6A`)
 - **Макет Figma:** https://www.figma.com/design/mkmEjVRZWmDfexQT2okxCO/Lab-1--Copy-?node-id=2-2
   (десктоп 1440 px, мобільний 390 px)
-- **GitHub Pages:** [https://rost1slavvvvvv.github.io/lab1/](https://trmp3058mp-creator.github.io/Lab1/)
+- **GitHub Pages:** https://trmp3058mp-creator.github.io/Lab1/
 
 ## Опис проєкту
 Адаптивний односторінковий лендінг меблевого каталогу **FurniShop**, спеціалізованого на ергономічних меблях для домашнього кабінету (робочі столи, крісла, стелажі, освітлення).
